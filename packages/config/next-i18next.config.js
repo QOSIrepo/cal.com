@@ -26,6 +26,7 @@ const config = {
       "pt",
       "ro",
       "ru",
+      "kk",
       "sr",
       "sv",
       "tr",
